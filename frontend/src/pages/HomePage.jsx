@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import Navbar from "../components/Navbar";
-import RateLimitedUI from "/home/prativa/Documents/mern/frontend/src/components/RatelimitedUI.jsx"; // Correct import
+import RateLimitedUI from "../components/RatelimitedUI.jsx";
 import NoteCard from "../components/NoteCard";
 import axios from "axios";
 import { toast } from "react-hot-toast";
